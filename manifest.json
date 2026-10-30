@@ -1,0 +1,16 @@
+{
+  "name": "护眼大字单词四线三格",
+  "short_name": "大字单词本",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F7F3E8",
+  "theme_color": "#F7F3E8",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
